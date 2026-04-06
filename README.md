@@ -1,2 +1,2 @@
 # Capstone-project
-This is our capstone project 
+E-book store web app
